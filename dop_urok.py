@@ -30,4 +30,4 @@
 #     else:
 #         return "Такого оператора нету"
 # print(calculator())
-
+print("Hello GitHub")
